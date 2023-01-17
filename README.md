@@ -1,5 +1,6 @@
-[Programming Fundamentals with Java - September 2022 - Certificate.pdf](https://github.com/KalinYordanov/Programming-Fundamentals-Java2022/files/10435748/Programming.Fundamentals.with.Java.-.September.2022.-.Certificate.pdf)
 ### Completed courses
+[Programming Fundamentals with Java - September 2022 - Certificate.pdf](https://github.com/KalinYordanov/Programming-Fundamentals-Java2022/files/10435748/Programming.Fundamentals.with.Java.-.September.2022.-.Certificate.pdf)
+
 [![Logo SoftUni](https://user-images.githubusercontent.com/113022603/188855109-f3fd8228-d74a-4b20-8a22-c5758a5177f7.png)](https://softuni.bg/trainings/courses)
 
 ## Certificates
